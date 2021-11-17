@@ -22,7 +22,7 @@ header h1 {
     text-align: center;
 }
 
-.link a {
+a {
     color: aquamarine;
 }
 
@@ -32,18 +32,18 @@ header h1 {
 }
 
 .travel-guide{
-    padding-top: 50px;
     text-align: center;
-    color: white;
     font-family: Verdana;
 }
 
-.travel-guide h2 {
+h2 {
+    padding-top: 50px;
+    color: white;
     font-weight: 300;
     font-size: 42px;
 }
 
-.travel-guide h3 {
+h3 {
     padding-top: 50px;
     font-weight: normal;
     font-size: 21px;
@@ -54,3 +54,14 @@ img {
     padding-top: 20px;
 }
 
+.phone-app {
+    text-align: center;
+}
+
+#download {
+    padding-top: 50px;
+}
+
+.copy {
+    text-align: right;
+}
