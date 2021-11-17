@@ -5,6 +5,7 @@
 
 html {
     background-color: black;
+    font-family: Verdana;
 }
 
 header h1 {
@@ -14,4 +15,18 @@ header h1 {
     font-family: Verdana;
     font-weight: normal;
     padding-top: 50px;
+}
+
+.link {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.link a {
+    color: aquamarine;
+}
+
+.phone-video {
+    padding-top: 50px;
+    text-align: center;
 }
